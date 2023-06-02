@@ -259,6 +259,8 @@ Last change:    00/00/00
 					infinite: false,
 					slidesToShow: 1,
 					slidesToScroll: 1,
+					autoplay: true,
+					autoplaySpeed: 3000,
 				});
 				$('.arck-project-details-slider').slick({
 					arrow: true,
